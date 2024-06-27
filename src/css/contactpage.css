@@ -1,0 +1,24 @@
+
+.main-content-1 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: chocolate;
+    text-align: center;
+    
+}
+.contact-form{
+    background-color: aquamarine;
+    width: 600px;
+    margin-left: 450px;
+    margin-right: 300px;
+    margin-top: 40px;
+    border-radius: 20px;
+    padding: 30px;
+}
+.contact-form input{
+    width: 500px;
+    margin: 2px;
+}
+.submit-form-button{
+    text-align: center;
+}
